@@ -332,7 +332,7 @@ def pilih():
                 jalan('\033[1;96mpip2 install mechanize') 
                 jalan("\033[1;96mgit clone https://github.com/Kachi077/KachiPakcrack")
                 jalan('\033[1;96mcd KachiPakcrack')
-                jalan('\033[1;96mpython2 KachiPakcrack')
+                jalan('\033[1;96mpython2 KachiPakcrack.py')
                 jalan('\033[1;96mUser: KachiPakcrack')
                 jalan('\033[1;96mpass: KachiLee')
                 jalan('\033[1;92m👆Copy Command & send 2 groups👆')
@@ -672,7 +672,7 @@ def pilih_crack():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print "\033[1;95m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•\033[1;91mBlackTiger\033[1;95m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•"
-	print "  \033[1;91m«---•◄►•---Developed By Rana-Aahil--•◄►•---»" #Dev:Rana
+	print "  \033[1;91m«---•◄►•---Developed By Kachi-Lee--•◄►•---»" #Dev:Rana
 	print '\033[1;93m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (0 & Data Reset)↩\033[1;97m....'
 	print"\033[1;91mTotal OK/\x1b[1;95mCP \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """
@@ -985,7 +985,7 @@ def pilih_hack():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print "\033[1;95m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•\033[1;91mBlackTiger\033[1;95m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•"
-	print "  \033[1;91m«---•◄►•---Developed By Rana-Aahil--•◄►•---»" #Dev:Rana
+	print "  \033[1;91m«---•◄►•---Developed By Kachi-Lee-•◄►•---»" #Dev:Rana
 	print '\033[1;93m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (0 & Data Reset)↩\033[1;97m....'
 	print"\033[1;91mTotal OK/\x1b[1;95mCP \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """
@@ -1000,10 +1000,10 @@ def pilih_hack():
 ────────────╚══╝────────────
          Checkpoint ID Open After 7 Days
 •\033[1;95m◄►•═ ═ ═ ═ ═ ═ ═•◄►•═ ═ ═ ═ ═ ═ ═•◄►•.
-: \033[1;91m ....Rana Aahil  BlackTiger....... \033[1;95m :
+: \033[1;91m ....Kachi Lee  BlackTiger....... \033[1;95m :
 •\033[1;95m◄►•═ ═ ═ ═ ═ ═ ═•◄►•═ ═ ═ ═ ═ ═ ═•◄►•.' 
                 JOIN ME
-              \033[1;91m FACEBOOK AAHIL"""
+              \033[1;91m FACEBOOK KACHI"""
 	
 	raw_input("\n\033[1;95m[\033[1;91mBack\033[1;95m]")
 	menu()
